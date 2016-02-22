@@ -1,0 +1,29 @@
+{
+  "name": "cached-request",
+  "version": "0.0.1",
+  "description": "This is a cached wrapper on request module of npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahesh-kedari/cached-request.git"
+  },
+  "keywords": [
+    "cache",
+    "request",
+    "npm",
+    "node-caching"
+  ],
+  "author": "Mahesh Kedari <kedari.mahesh@outlook.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mahesh-kedari/cached-request/issues"
+  },
+  "homepage": "https://github.com/mahesh-kedari/cached-request#readme",
+  "dependencies": {
+    "is-cacheable": "^1.0.1",
+    "request": "^2.69.0"
+  }
+}
